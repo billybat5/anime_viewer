@@ -9,7 +9,7 @@
     ],
     "rewrites": [
         {
-            "src": "/(.*)",
+            "source": "/(.*)",
             "dest": "/index.js"
         }
     ]
